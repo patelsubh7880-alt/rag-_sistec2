@@ -7,7 +7,7 @@ import tempfile
 import os
 from pypdf import PdfReader
 
-st.set_page_config(page_title="PDF Q&A with Gemini")
+st.set_page_config(page_title="PDF READER ")
 
 st.title("📄 PDF Q&A with Gemini")
 
